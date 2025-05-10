@@ -1,0 +1,17 @@
+[Farmer visits MandiMitra website]
+           ↓
+[Selects Crop + State + District]
+           ↓
+[Clicks "Get Mandi Rates"]
+           ↓
+[Frontend sends request to backend]
+           ↓
+[Backend uses API to fetch real-time data from AgmarkNet]
+           ↓
+[Backend processes and sends clean JSON data]
+           ↓
+[Frontend displays: Current Market Prices, Mandi Name, Date]
+           ↓
+[Farmer checks best rate and decides when/where to sell]
+           ↓
+[Future Scope: AI suggests price predictions & best dates]
